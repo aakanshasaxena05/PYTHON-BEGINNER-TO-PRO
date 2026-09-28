@@ -1,0 +1,56 @@
+# 🐼 Pandas – Beginner to Professional
+
+This repository contains my **Python Pandas learning and practice programs**, starting from basic concepts and gradually moving toward more advanced data manipulation and analysis techniques.
+
+## 📚 Topics Covered
+
+* Introduction to Pandas
+* Series and DataFrames
+* Creating and accessing DataFrames
+* Selecting rows and columns
+* `.loc` and `.iloc`
+* Adding and removing columns
+* Handling missing values
+* `isnull()` and `isna()`
+* `fillna()`
+* Forward Fill (`ffill`)
+* Backward Fill (`bfill`)
+* Interpolation
+* Data type conversion
+* `pd.to_numeric()`
+* Sorting DataFrames
+* Sorting by multiple columns
+* Filtering data
+* Descriptive / Summary Statistics
+* Mean, Median, Mode
+* Variance and Standard Deviation
+* Data Cleaning
+* Practical Data Analysis
+
+## 🛠️ Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Jupyter Notebook / VS Code
+
+## 🎯 Purpose
+
+The purpose of this repository is to build a strong foundation in **Pandas and data analysis** through practical examples and hands-on coding.
+
+This repository documents my learning journey from **beginner concepts to professional-level data manipulation and analysis**.
+
+## 🚀 Future Topics
+
+* GroupBy
+* Merging and Joining
+* Pivot Tables
+* Advanced Data Cleaning
+* Data Visualization
+* Real-world datasets
+* Exploratory Data Analysis (EDA)
+
+## 👩‍💻 Author
+
+**Aakansha Saxena**
+BCA Student | Aspiring Data Analyst / Salesforce Developer
